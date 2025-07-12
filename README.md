@@ -1,4 +1,4 @@
-# Custom-TestNet-Depolyment
+# Custom-TestNet-Depolyment  (ERC-20)
 Deploy a custom ERC-20 smart contract to the BlockDAG Primordial Testnet using thirdweb's TypeScript SDK with automatic fallback to ethers.js.. This dual method ensures reliable deployment and compatibility with custom EVM networks.
 
 # BlockDAG Smart Contract Deployment (thirdweb + ethers.js)
